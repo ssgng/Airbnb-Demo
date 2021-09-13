@@ -7,6 +7,21 @@ html{
     background-color: white;
 
 }
+
+
+.btn-1{
+    
+    box-shadow: inset 0 0 0 0 #ff385c;
+    transition: ease-out 0.8s;
+    outline: none;
+}
+.btn-1:hover{
+    box-shadow: inset 300px 0 0 0 #ff385c;
+}
+
+
+
+
 .container-header{
     margin-top: 5px;
     display: flex;
